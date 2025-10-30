@@ -6,7 +6,7 @@ Tests for ALIVE-Emotiontranslator
 import unittest
 from main import *
 
-class TestEmotiontranslator(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
